@@ -1,0 +1,17 @@
+.todo-wrapper{
+    width: 400px;
+    font:12px/17px "Microsoft Yahei"
+}
+.todo-list-box{
+    border-top:1px #ccc dashed;
+    border-bottom:1px #ccc dashed;
+    margin:12px 0;
+    padding-top:6px;
+}
+.todo-nodata{
+    height:100px;
+    line-height: 100px;
+    font-size: 16px;
+    color:#999;
+    text-align: center;
+}

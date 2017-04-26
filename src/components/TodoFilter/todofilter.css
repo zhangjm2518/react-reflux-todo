@@ -1,0 +1,17 @@
+.todo-completed{
+    height:27px;
+    line-height:27px;
+}
+.filter-item{
+    float: left;
+    height:27px;
+    line-height:27px;
+    margin-right:6px;
+}
+.filter-item input[type="radio"]{
+    float: left;
+    margin-top:8px;
+}
+.filter-btn{
+    float: right;
+}
